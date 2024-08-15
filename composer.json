@@ -8,6 +8,7 @@
     "require": {
         "dimitar-kunchev/paypalhttp_php": "*@dev"
     },
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "PayPal",
